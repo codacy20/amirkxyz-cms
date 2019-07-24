@@ -6,14 +6,15 @@
   },
   "csp": {
     "enabled": true,
-    "policy": [{
+    "policy": [
+      {
         "img-src": "'self' http:"
       },
       "block-all-mixed-content"
     ]
   },
   "p3p": {
-    "enabled": true,
+    "enabled": false,
     "value": ""
   },
   "hsts": {
