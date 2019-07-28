@@ -31,7 +31,7 @@ yarn start
 ```
 the application will run on localhost:3000.
 <!-- 
-### Run as container service restarts
+### Run as container service 
 ```
 docker build .
 ```
